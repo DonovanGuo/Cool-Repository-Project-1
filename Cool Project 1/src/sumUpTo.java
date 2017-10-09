@@ -1,4 +1,5 @@
 
-public class sumUpTo {
+public class sumUpTo 
+{
 
 }
