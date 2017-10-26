@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry excluding="The Copy pasta/src/|cool project 1/src/" kind="src" path=""/>
-	<classpathentry kind="output" path="The Copy pasta/bin"/>
-</classpath>
