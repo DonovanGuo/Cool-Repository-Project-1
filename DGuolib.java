@@ -1,4 +1,4 @@
-
+//Donovan Guo
 public class DGuolib
 {
 	public static String dateStr(String dte) 
